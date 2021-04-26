@@ -1,0 +1,13 @@
+// g++ initials.cpp -o cwc.o
+#include <iostreanm>
+using namespace std;
+
+int main() {
+	cout << gg   ddd        a  \n;
+	cout <<g  g  d   d     a a \n;
+	cout <<g     d    d   aaaaa \n;
+	cout <<g gg  d    d  a     a \n;
+	cout << ggg  d d d  a       a\n;
+
+	return 0;
+}
